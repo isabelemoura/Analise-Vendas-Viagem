@@ -1,4 +1,4 @@
-# Análise de Vendas de Viagem
+# Análise de Vendas - Viagem
 
 Este projeto consiste em uma Análise de Vendas utilizando a linguagem Python. Nele, serão abertas 6 bases de dados em formato Excel com o auxílio da biblioteca openpyxl, e também envios de SMS serão realizados utilizando a plataforma Twilio.
 
