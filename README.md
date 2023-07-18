@@ -12,6 +12,7 @@ Para instalar as bibliotecas necessárias, abra um terminal ou prompt de comando
 pip install pandas
 pip install twilio
 pip install openpyxl
+```
 
 ## Configuração do Twilio
 Para utilizar a funcionalidade de envio de SMS, você precisará ter uma conta no Twilio ou criar uma nova caso não possua uma. O Twilio é uma plataforma que permite o envio de mensagens de texto (SMS) e chamadas telefônicas programaticamente.
